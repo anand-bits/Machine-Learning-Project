@@ -1,0 +1,6 @@
+1. Setup The GitHub repository 
+    a)New enviornment
+    b)Setup.py
+    c)requirement.txt
+    
+2. Setup the Error Handling and Custome Exception and Logging the Info with the line Number .
